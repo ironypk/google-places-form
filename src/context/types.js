@@ -1,0 +1,2 @@
+export const SET_ADDRESS = 'SET_ADDRESS'
+export const POST_ADDRESS = 'POST_ADDRESS'
